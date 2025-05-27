@@ -2,6 +2,10 @@
 
 This project provides a complete TypeScript development environment for Power Platform web resources, allowing you to write type-safe code with IntelliSense support and automatically sync compiled JavaScript to your web resource folders.
 
+For a step by step guide check out my blog, it contains images with every step required.
+https://www.clive-oldridge.com/azure/2025/05/26/power-platform-typescript-development-workflow.html
+
+
 ## Important
 
 Power Platform git integration must be exported to the folder src for this to work.
